@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <div>
             <Header />
-            <main className="p-4">Welcome to GameAscension!</main>
+            <main className="p-4">Bienvenue sur GameAscension !</main>
         </div>
     );
 }

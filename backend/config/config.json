@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "gameuser",
+    "password": "password123",
+    "database": "gameascension",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "gameuser",
+    "password": "password123",
+    "database": "gameascension_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "gameuser",
+    "password": "password123",
+    "database": "gameascension_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
